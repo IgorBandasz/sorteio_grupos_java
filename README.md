@@ -10,8 +10,8 @@ Facilitar o sorteio dos grupos e implementar um projeto em Java que é a linguag
 ![Sorteio](https://github.com/IgorBandasz/sorteio_grupos_java/blob/remodelar_readme/images/sorteio.png)
 
 # Requisitos
-Java JDK 8
-Connector MySQL versão >= 8.0.30
+* Java JDK 8
+* Connector MySQL versão >= 8.0.30
 
 
 
