@@ -5,9 +5,9 @@ Programa de sorteio de ordem de grupos para apresentação de trabalhos
 Facilitar o sorteio dos grupos e implementar um projeto em Java que é a linguagem de programação usada na disciplina de Programação Orientada a Objetos 2
 
 # Prints
-![MenuPrincipal](.\images\menu.png)
-![CadastroGrupos](.\images\cadastro_grupos.png)
-![Sorteio](.\images\sorteio.png)
+![MenuPrincipal](https://github.com/IgorBandasz/sorteio_grupos_java/blob/remodelar_readme/images/menu.png)
+![CadastroGrupos](https://github.com/IgorBandasz/sorteio_grupos_java/blob/remodelar_readme/images/cadastro_grupos.png)
+![Sorteio](https://github.com/IgorBandasz/sorteio_grupos_java/blob/remodelar_readme/images/sorteio.png)
 
 # Requisitos
 Java JDK 8
